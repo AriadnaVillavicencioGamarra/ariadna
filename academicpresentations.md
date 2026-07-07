@@ -4,8 +4,6 @@ title: "Research"
 ---
 
 ---
-meta-google-site-verification: MW4qXWm10tHH6PLoHqBJesZU9LyJg-CCy-UwD5R5PZM
-meta-viewport: width=device-width, initial-scale=1
 title: Research | Ariadna Marina Villavicencio Gamarra
 ---
 
