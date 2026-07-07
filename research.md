@@ -18,3 +18,7 @@ Recipient of the Louis B. Perry Summer Research Award. Conducted exploratory res
 May 2025 – August 2025
 
 
+#### Work in Porgress
+Ariadna Villavicencio. "Investing in education means investing in infrastructure? A case of Peru (2007-2020)"
+
+
