@@ -1,5 +1,3 @@
-
-Academic presentation · MD
 ---
 layout: default
 title: Academic Presentations
